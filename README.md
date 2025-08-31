@@ -40,7 +40,7 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 <a href="https://youtu.be/fZdTYswuZjU" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
-## <a name="introduction">✨ Introduction</a>
+## <a name="introductio">✨ Introduction</a>
 
 Nike-style eCommerce built with Devin AI, Next.js, Drizzle ORM, and Better Auth. In this project, you’ll master prompting as Devin helps generate sleek product pages powered by Next.js 15, TypeScript, and TailwindCSS. The backend runs on Neon PostgreSQL with Drizzle ORM, authentication is handled with Better Auth, and Zustand manages state — all packaged in a clean, modular UI to help you ship faster.
 
